@@ -1,4 +1,4 @@
-# Intro
+
 # Welcome to VidyoPlatform GitHub Space
 We help application developers and enterprises quickly embed high-quality, reliable, and scalable multiparty video collaboration into any WebRTC, mobile or native application, with just a few lines of code. 
 We are powered by Vidyo, a video technology pioneer across the globe. Our VidyoPlatform works across multiple platforms by providing developers with all the necessary infrastructure and support. We provide APIs and SDKs for web browsers, iOS, Android, macOS, and windows. It is ideal for all types of network environments; a key differentiation is that we offer the best video quality with the lowest latency globally. 
